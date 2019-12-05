@@ -1,0 +1,12 @@
+ .main {
+        text-align: center;
+    }
+    .wdw {
+        color: chartreuse;
+        font-size: large;
+        font-weight: bold;
+    }
+    .workshop {
+        font-style: oblique;
+        font-size: 20px;
+    }
